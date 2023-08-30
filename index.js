@@ -25,7 +25,7 @@ iii. cenouras crescem na terra true
 // exercicio 1 codigo
 
 function informacoes() {
-    const nombre = `Eu sou Tomas, tenho 19 anos, moro em são leopoldo e sou estudante`
+    const nombre = `Eu sou eddyson, tenho 20 anos, moro em são leopoldo e sou estudante`
     return nombre
 } 
 
